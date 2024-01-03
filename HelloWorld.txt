@@ -1,4 +1,4 @@
-初始化HelloWorld.
+发送冲突HelloWorld.
 修改HelloWorld.
 另一个仓库中修改了HelloWorld.
 master分支的修改.
